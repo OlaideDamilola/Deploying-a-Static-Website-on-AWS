@@ -7,8 +7,7 @@ Here's a README file based on the provided information:
 ## Project Overview:
 This project aims to enhance the café's online presence and community awareness by providing business details and showcasing its offerings through a visually appealing website.
 
-![Static Website Diagram](static_website.png)
-*Static Website Diagram: This diagram illustrates the architecture of the static website deployment using Amazon S3.*
+static website.png
 
 ## Project Objectives:
 - Host a static website using Amazon S3.
